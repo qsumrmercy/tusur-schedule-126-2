@@ -1,0 +1,63 @@
+name: Update TUSUR Schedule 126-2
+
+on:
+  schedule:
+    # Runs daily at 15:00 UTC (22:00 Tomsk time UTC+7)
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run parser
+        run: |
+          python parser.py --all-weeks
+
+      - name: Verify schedule artifacts
+        run: |
+          for f in schedule.ics schedule-126-2.ics schedule.json; do
+            if [ ! -f "$f" ]; then
+              echo "Error: $f was not generated!"
+              exit 1
+            fi
+            echo "$f size: $(wc -c < "$f") bytes"
+          done
+          head -n 25 schedule.ics
+
+      - name: Prepare GitHub Pages directory
+        run: |
+          mkdir -p public
+          cp schedule*.ics public/
+          cp schedule*.json public/
+          if [ -f index.html ]; then
+            cp index.html public/
+          fi
+
+      - name: Deploy to GitHub Pages (gh-pages)
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: public
+          branch: gh-pages
+          target-folder: .
+          clean: true
