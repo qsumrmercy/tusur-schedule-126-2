@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260901T085000
 DTEND;TZID=Asia/Tomsk:20260901T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670289-20260901@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -32,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260901T104000
 DTEND;TZID=Asia/Tomsk:20260901T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670290-20260901@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260901T131500
 DTEND;TZID=Asia/Tomsk:20260901T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670292-20260901@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20260901T150000
 DTEND;TZID=Asia/Tomsk:20260901T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670281-20260901@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20260902T085000
 DTEND;TZID=Asia/Tomsk:20260902T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670417-20260902@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260902T104000
 DTEND;TZID=Asia/Tomsk:20260902T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670403-20260902@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20260902T131500
 DTEND;TZID=Asia/Tomsk:20260902T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670420-20260902@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20260902T150000
 DTEND;TZID=Asia/Tomsk:20260902T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672089-20260902@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -122,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260903T085000
 DTEND;TZID=Asia/Tomsk:20260903T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672728-20260903@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260903T104000
 DTEND;TZID=Asia/Tomsk:20260903T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670496-20260903@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260903T131500
 DTEND;TZID=Asia/Tomsk:20260903T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670524-20260903@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20260903T150000
 DTEND;TZID=Asia/Tomsk:20260903T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669685-20260903@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Лекция\n3. Преподаватель: Тор
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260904T131500
 DTEND;TZID=Asia/Tomsk:20260904T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669829-20260904@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -189,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260904T150000
 DTEND;TZID=Asia/Tomsk:20260904T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669830-20260904@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20260904T164500
 DTEND;TZID=Asia/Tomsk:20260904T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669784-20260904@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Бусыгина Анна В
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20260904T183000
 DTEND;TZID=Asia/Tomsk:20260904T200500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670127-20260904@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Бусыгина Анна В
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20260905T085000
 DTEND;TZID=Asia/Tomsk:20260905T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669836-20260905@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Лекция\n3. Преподаватель: Крыгина Ма
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260907T085000
 DTEND;TZID=Asia/Tomsk:20260907T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669851-20260907@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Лекция\n3. Преподава
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20260907T104000
 DTEND;TZID=Asia/Tomsk:20260907T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669329-20260907@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260907T131500
 DTEND;TZID=Asia/Tomsk:20260907T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669377-20260907@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260907T150000
 DTEND;TZID=Asia/Tomsk:20260907T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669378-20260907@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260908T085000
 DTEND;TZID=Asia/Tomsk:20260908T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670743-20260908@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260908T104000
 DTEND;TZID=Asia/Tomsk:20260908T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670744-20260908@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260908T131500
 DTEND;TZID=Asia/Tomsk:20260908T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670745-20260908@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -344,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20260908T150000
 DTEND;TZID=Asia/Tomsk:20260908T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-671685-20260908@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Бурачевский Юрий Алексан
@@ -356,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20260909T085000
 DTEND;TZID=Asia/Tomsk:20260909T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670419-20260909@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260909T104000
 DTEND;TZID=Asia/Tomsk:20260909T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670404-20260909@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20260909T131500
 DTEND;TZID=Asia/Tomsk:20260909T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670756-20260909@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Практика\n3. Преподаватель: Крыгина 
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20260909T150000
 DTEND;TZID=Asia/Tomsk:20260909T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672088-20260909@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20260910T085000
 DTEND;TZID=Asia/Tomsk:20260910T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670200-20260910@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260910T104000
 DTEND;TZID=Asia/Tomsk:20260910T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670499-20260910@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260910T131500
 DTEND;TZID=Asia/Tomsk:20260910T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670527-20260910@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20260910T150000
 DTEND;TZID=Asia/Tomsk:20260910T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669988-20260910@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Лекция\n3. Преподаватель: Тор
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260911T085000
 DTEND;TZID=Asia/Tomsk:20260911T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670794-20260911@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -473,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20260911T104000
 DTEND;TZID=Asia/Tomsk:20260911T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670421-20260911@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260911T131500
 DTEND;TZID=Asia/Tomsk:20260911T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669379-20260911@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -501,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Математика
 DTSTART;TZID=Asia/Tomsk:20260911T150000
 DTEND;TZID=Asia/Tomsk:20260911T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669380-20260911@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Самос
  тоятельная работа\n3. Преподаватель: Ерм
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260912T085000
 DTEND;TZID=Asia/Tomsk:20260912T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670809-20260912@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -530,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260912T104000
 DTEND;TZID=Asia/Tomsk:20260912T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670810-20260912@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20260914T085000
 DTEND;TZID=Asia/Tomsk:20260914T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670198-20260914@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20260914T104000
 DTEND;TZID=Asia/Tomsk:20260914T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669328-20260914@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260914T131500
 DTEND;TZID=Asia/Tomsk:20260914T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669371-20260914@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260914T150000
 DTEND;TZID=Asia/Tomsk:20260914T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669417-20260914@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -598,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260915T085000
 DTEND;TZID=Asia/Tomsk:20260915T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670289-20260915@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260915T104000
 DTEND;TZID=Asia/Tomsk:20260915T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670290-20260915@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -624,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260915T131500
 DTEND;TZID=Asia/Tomsk:20260915T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670292-20260915@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20260915T150000
 DTEND;TZID=Asia/Tomsk:20260915T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670281-20260915@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -649,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20260916T085000
 DTEND;TZID=Asia/Tomsk:20260916T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670417-20260916@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -661,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260916T104000
 DTEND;TZID=Asia/Tomsk:20260916T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670403-20260916@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -674,7 +674,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20260916T131500
 DTEND;TZID=Asia/Tomsk:20260916T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674278-20260916@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260917T085000
 DTEND;TZID=Asia/Tomsk:20260917T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672728-20260917@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -701,7 +701,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260917T104000
 DTEND;TZID=Asia/Tomsk:20260917T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670496-20260917@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -714,7 +714,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260917T131500
 DTEND;TZID=Asia/Tomsk:20260917T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670524-20260917@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20260917T150000
 DTEND;TZID=Asia/Tomsk:20260917T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669685-20260917@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Лекция\n3. Преподаватель: Тор
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260918T131500
 DTEND;TZID=Asia/Tomsk:20260918T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669829-20260918@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -755,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260918T150000
 DTEND;TZID=Asia/Tomsk:20260918T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669830-20260918@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -769,7 +769,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20260918T164500
 DTEND;TZID=Asia/Tomsk:20260918T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669786-20260918@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Рогожников Евг
@@ -782,7 +782,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20260918T183000
 DTEND;TZID=Asia/Tomsk:20260918T200500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669788-20260918@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Рогожников Евг
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20260919T085000
 DTEND;TZID=Asia/Tomsk:20260919T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669836-20260919@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Лекция\n3. Преподаватель: Крыгина Ма
@@ -808,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260921T085000
 DTEND;TZID=Asia/Tomsk:20260921T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669851-20260921@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Лекция\n3. Преподава
@@ -822,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20260921T104000
 DTEND;TZID=Asia/Tomsk:20260921T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669329-20260921@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -835,7 +835,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260921T131500
 DTEND;TZID=Asia/Tomsk:20260921T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669377-20260921@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -849,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260921T150000
 DTEND;TZID=Asia/Tomsk:20260921T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669378-20260921@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -863,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260922T085000
 DTEND;TZID=Asia/Tomsk:20260922T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670743-20260922@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -876,7 +876,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260922T104000
 DTEND;TZID=Asia/Tomsk:20260922T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670744-20260922@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260922T131500
 DTEND;TZID=Asia/Tomsk:20260922T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670745-20260922@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -902,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20260922T150000
 DTEND;TZID=Asia/Tomsk:20260922T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670282-20260922@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -914,7 +914,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20260923T085000
 DTEND;TZID=Asia/Tomsk:20260923T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670419-20260923@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -926,7 +926,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260923T104000
 DTEND;TZID=Asia/Tomsk:20260923T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670404-20260923@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -939,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20260923T131500
 DTEND;TZID=Asia/Tomsk:20260923T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670756-20260923@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Практика\n3. Преподаватель: Крыгина 
@@ -952,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20260923T150000
 DTEND;TZID=Asia/Tomsk:20260923T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672088-20260923@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -965,7 +965,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20260924T085000
 DTEND;TZID=Asia/Tomsk:20260924T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670200-20260924@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -978,7 +978,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20260924T104000
 DTEND;TZID=Asia/Tomsk:20260924T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-675084-20260924@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Очир
@@ -991,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260924T131500
 DTEND;TZID=Asia/Tomsk:20260924T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670527-20260924@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1004,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20260924T150000
 DTEND;TZID=Asia/Tomsk:20260924T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669693-20260924@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -1018,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20260925T085000
 DTEND;TZID=Asia/Tomsk:20260925T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670794-20260925@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -1031,7 +1031,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20260925T104000
 DTEND;TZID=Asia/Tomsk:20260925T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674281-20260925@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -1045,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260925T131500
 DTEND;TZID=Asia/Tomsk:20260925T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669379-20260925@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1059,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Математика
 DTSTART;TZID=Asia/Tomsk:20260925T150000
 DTEND;TZID=Asia/Tomsk:20260925T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669380-20260925@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Самос
  тоятельная работа\n3. Преподаватель: Ерм
@@ -1074,7 +1074,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20260925T164500
 DTEND;TZID=Asia/Tomsk:20260925T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674238-20260925@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -1087,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260926T085000
 DTEND;TZID=Asia/Tomsk:20260926T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670809-20260926@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -1101,7 +1101,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260926T104000
 DTEND;TZID=Asia/Tomsk:20260926T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670810-20260926@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -1115,7 +1115,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20260928T085000
 DTEND;TZID=Asia/Tomsk:20260928T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670198-20260928@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -1128,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20260928T104000
 DTEND;TZID=Asia/Tomsk:20260928T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669328-20260928@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -1141,7 +1141,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20260928T131500
 DTEND;TZID=Asia/Tomsk:20260928T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669371-20260928@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -1155,7 +1155,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20260928T150000
 DTEND;TZID=Asia/Tomsk:20260928T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669417-20260928@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1169,7 +1169,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260929T085000
 DTEND;TZID=Asia/Tomsk:20260929T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670289-20260929@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -1182,7 +1182,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20260929T104000
 DTEND;TZID=Asia/Tomsk:20260929T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670290-20260929@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20260929T131500
 DTEND;TZID=Asia/Tomsk:20260929T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670292-20260929@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1208,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20260929T150000
 DTEND;TZID=Asia/Tomsk:20260929T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670281-20260929@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -1220,7 +1220,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20260930T085000
 DTEND;TZID=Asia/Tomsk:20260930T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670417-20260930@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -1232,7 +1232,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20260930T104000
 DTEND;TZID=Asia/Tomsk:20260930T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670403-20260930@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -1245,7 +1245,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20260930T131500
 DTEND;TZID=Asia/Tomsk:20260930T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-675138-20260930@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -1259,7 +1259,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20260930T150000
 DTEND;TZID=Asia/Tomsk:20260930T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672089-20260930@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -1272,7 +1272,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261001T085000
 DTEND;TZID=Asia/Tomsk:20261001T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672728-20261001@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -1285,7 +1285,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261001T104000
 DTEND;TZID=Asia/Tomsk:20261001T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-675579-20261001@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Очир
@@ -1298,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261001T131500
 DTEND;TZID=Asia/Tomsk:20261001T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670524-20261001@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1311,7 +1311,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20261001T150000
 DTEND;TZID=Asia/Tomsk:20261001T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669692-20261001@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -1325,7 +1325,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261002T131500
 DTEND;TZID=Asia/Tomsk:20261002T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669829-20261002@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -1339,7 +1339,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261002T150000
 DTEND;TZID=Asia/Tomsk:20261002T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669830-20261002@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261002T164500
 DTEND;TZID=Asia/Tomsk:20261002T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669798-20261002@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Артищев Сергей 
@@ -1367,7 +1367,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261002T183000
 DTEND;TZID=Asia/Tomsk:20261002T200500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669799-20261002@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Артищев Сергей 
@@ -1381,7 +1381,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20261003T085000
 DTEND;TZID=Asia/Tomsk:20261003T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669836-20261003@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Лекция\n3. Преподаватель: Крыгина Ма
@@ -1394,7 +1394,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261005T085000
 DTEND;TZID=Asia/Tomsk:20261005T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669851-20261005@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Лекция\n3. Преподава
@@ -1408,7 +1408,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20261005T104000
 DTEND;TZID=Asia/Tomsk:20261005T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669329-20261005@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -1421,7 +1421,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261005T131500
 DTEND;TZID=Asia/Tomsk:20261005T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669377-20261005@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -1435,7 +1435,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261005T150000
 DTEND;TZID=Asia/Tomsk:20261005T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669378-20261005@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1449,7 +1449,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261006T085000
 DTEND;TZID=Asia/Tomsk:20261006T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670743-20261006@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -1462,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261006T104000
 DTEND;TZID=Asia/Tomsk:20261006T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670744-20261006@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -1475,7 +1475,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261006T131500
 DTEND;TZID=Asia/Tomsk:20261006T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670745-20261006@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1488,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20261006T150000
 DTEND;TZID=Asia/Tomsk:20261006T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670282-20261006@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -1500,7 +1500,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20261007T085000
 DTEND;TZID=Asia/Tomsk:20261007T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670419-20261007@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -1512,7 +1512,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261007T104000
 DTEND;TZID=Asia/Tomsk:20261007T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670404-20261007@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -1525,7 +1525,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20261007T131500
 DTEND;TZID=Asia/Tomsk:20261007T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670756-20261007@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Практика\n3. Преподаватель: Крыгина 
@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20261007T150000
 DTEND;TZID=Asia/Tomsk:20261007T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672088-20261007@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -1551,7 +1551,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20261008T085000
 DTEND;TZID=Asia/Tomsk:20261008T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670200-20261008@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -1564,7 +1564,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261008T104000
 DTEND;TZID=Asia/Tomsk:20261008T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-675578-20261008@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Очир
@@ -1577,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261008T131500
 DTEND;TZID=Asia/Tomsk:20261008T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670527-20261008@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1590,7 +1590,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20261008T150000
 DTEND;TZID=Asia/Tomsk:20261008T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669693-20261008@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -1604,7 +1604,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261009T085000
 DTEND;TZID=Asia/Tomsk:20261009T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670794-20261009@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -1617,7 +1617,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20261009T104000
 DTEND;TZID=Asia/Tomsk:20261009T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674998-20261009@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -1631,7 +1631,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261009T131500
 DTEND;TZID=Asia/Tomsk:20261009T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669379-20261009@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1645,7 +1645,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Математика
 DTSTART;TZID=Asia/Tomsk:20261009T150000
 DTEND;TZID=Asia/Tomsk:20261009T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669380-20261009@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Самос
  тоятельная работа\n3. Преподаватель: Ерм
@@ -1660,7 +1660,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261010T085000
 DTEND;TZID=Asia/Tomsk:20261010T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670809-20261010@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -1674,7 +1674,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261010T104000
 DTEND;TZID=Asia/Tomsk:20261010T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670810-20261010@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -1688,7 +1688,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20261012T085000
 DTEND;TZID=Asia/Tomsk:20261012T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670198-20261012@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20261012T104000
 DTEND;TZID=Asia/Tomsk:20261012T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669328-20261012@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -1714,7 +1714,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261012T131500
 DTEND;TZID=Asia/Tomsk:20261012T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669371-20261012@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -1728,7 +1728,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261012T150000
 DTEND;TZID=Asia/Tomsk:20261012T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669417-20261012@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1742,7 +1742,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20261013T085000
 DTEND;TZID=Asia/Tomsk:20261013T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670289-20261013@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -1755,7 +1755,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20261013T104000
 DTEND;TZID=Asia/Tomsk:20261013T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670290-20261013@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -1768,7 +1768,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261013T131500
 DTEND;TZID=Asia/Tomsk:20261013T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670292-20261013@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1781,7 +1781,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20261013T150000
 DTEND;TZID=Asia/Tomsk:20261013T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-676175-20261013@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Бурачевский Юрий Алексан
@@ -1793,7 +1793,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20261014T085000
 DTEND;TZID=Asia/Tomsk:20261014T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670417-20261014@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -1805,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261014T104000
 DTEND;TZID=Asia/Tomsk:20261014T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670403-20261014@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -1818,7 +1818,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20261014T131500
 DTEND;TZID=Asia/Tomsk:20261014T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674995-20261014@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -1832,7 +1832,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20261014T150000
 DTEND;TZID=Asia/Tomsk:20261014T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672089-20261014@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -1845,7 +1845,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261015T085000
 DTEND;TZID=Asia/Tomsk:20261015T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672728-20261015@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -1858,7 +1858,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261015T104000
 DTEND;TZID=Asia/Tomsk:20261015T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670496-20261015@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -1871,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261015T131500
 DTEND;TZID=Asia/Tomsk:20261015T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670524-20261015@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -1884,7 +1884,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20261015T150000
 DTEND;TZID=Asia/Tomsk:20261015T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669692-20261015@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -1898,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261016T131500
 DTEND;TZID=Asia/Tomsk:20261016T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669829-20261016@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -1912,7 +1912,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261016T150000
 DTEND;TZID=Asia/Tomsk:20261016T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669830-20261016@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -1926,7 +1926,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261016T164500
 DTEND;TZID=Asia/Tomsk:20261016T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669806-20261016@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Харитонов Андр
@@ -1939,7 +1939,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261016T183000
 DTEND;TZID=Asia/Tomsk:20261016T200500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669807-20261016@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Харитонов Андр
@@ -1952,7 +1952,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20261017T085000
 DTEND;TZID=Asia/Tomsk:20261017T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669836-20261017@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Лекция\n3. Преподаватель: Крыгина Ма
@@ -1965,7 +1965,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261019T085000
 DTEND;TZID=Asia/Tomsk:20261019T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669851-20261019@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Лекция\n3. Преподава
@@ -1979,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20261019T104000
 DTEND;TZID=Asia/Tomsk:20261019T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669329-20261019@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -1992,7 +1992,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261019T131500
 DTEND;TZID=Asia/Tomsk:20261019T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669377-20261019@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -2006,7 +2006,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261019T150000
 DTEND;TZID=Asia/Tomsk:20261019T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669378-20261019@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -2020,7 +2020,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261020T085000
 DTEND;TZID=Asia/Tomsk:20261020T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670743-20261020@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -2033,7 +2033,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261020T104000
 DTEND;TZID=Asia/Tomsk:20261020T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670744-20261020@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лабораторная работа\n3. Препод
@@ -2046,7 +2046,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261020T131500
 DTEND;TZID=Asia/Tomsk:20261020T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670745-20261020@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -2059,7 +2059,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20261020T150000
 DTEND;TZID=Asia/Tomsk:20261020T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670282-20261020@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -2071,7 +2071,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20261021T085000
 DTEND;TZID=Asia/Tomsk:20261021T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670419-20261021@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -2083,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261021T104000
 DTEND;TZID=Asia/Tomsk:20261021T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670404-20261021@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -2096,7 +2096,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20261021T131500
 DTEND;TZID=Asia/Tomsk:20261021T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670756-20261021@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Практика\n3. Преподаватель: Крыгина 
@@ -2109,7 +2109,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20261021T150000
 DTEND;TZID=Asia/Tomsk:20261021T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672088-20261021@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -2122,7 +2122,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20261022T085000
 DTEND;TZID=Asia/Tomsk:20261022T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670200-20261022@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -2135,7 +2135,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261022T104000
 DTEND;TZID=Asia/Tomsk:20261022T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670499-20261022@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -2148,7 +2148,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261022T131500
 DTEND;TZID=Asia/Tomsk:20261022T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670527-20261022@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20261022T150000
 DTEND;TZID=Asia/Tomsk:20261022T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669693-20261022@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -2175,7 +2175,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261023T085000
 DTEND;TZID=Asia/Tomsk:20261023T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670794-20261023@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -2188,7 +2188,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20261023T104000
 DTEND;TZID=Asia/Tomsk:20261023T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674281-20261023@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -2202,7 +2202,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261023T131500
 DTEND;TZID=Asia/Tomsk:20261023T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669379-20261023@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -2216,7 +2216,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Математика
 DTSTART;TZID=Asia/Tomsk:20261023T150000
 DTEND;TZID=Asia/Tomsk:20261023T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669380-20261023@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Самос
  тоятельная работа\n3. Преподаватель: Ерм
@@ -2231,7 +2231,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261024T085000
 DTEND;TZID=Asia/Tomsk:20261024T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670809-20261024@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261024T104000
 DTEND;TZID=Asia/Tomsk:20261024T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670810-20261024@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лабораторная работа\n3. Преподаватель:
@@ -2259,7 +2259,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] История
 DTSTART;TZID=Asia/Tomsk:20261026T085000
 DTEND;TZID=Asia/Tomsk:20261026T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670198-20261026@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Пр
  актика\n3. Преподаватель: Костерев Антон 
@@ -2272,7 +2272,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] История
 DTSTART;TZID=Asia/Tomsk:20261026T104000
 DTEND;TZID=Asia/Tomsk:20261026T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669328-20261026@timetable.tusur.ru
 DESCRIPTION:1. Предмет: История России\n2. Вид: Ле
  кция\n3. Преподаватель: Пищулин Дмитрий В
@@ -2285,7 +2285,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261026T131500
 DTEND;TZID=Asia/Tomsk:20261026T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669371-20261026@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -2299,7 +2299,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261026T150000
 DTEND;TZID=Asia/Tomsk:20261026T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669417-20261026@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -2313,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20261027T085000
 DTEND;TZID=Asia/Tomsk:20261027T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670289-20261027@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -2326,7 +2326,7 @@ BEGIN:VEVENT
 SUMMARY:[🟣 ЛР] Физика
 DTSTART;TZID=Asia/Tomsk:20261027T104000
 DTEND;TZID=Asia/Tomsk:20261027T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670290-20261027@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лаборатор
  ная работа\n3. Преподаватель: Никоненко А
@@ -2339,7 +2339,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261027T131500
 DTEND;TZID=Asia/Tomsk:20261027T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670292-20261027@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -2352,7 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Физика
 DTSTART;TZID=Asia/Tomsk:20261027T150000
 DTEND;TZID=Asia/Tomsk:20261027T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670281-20261027@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Лекция\n3. П
  реподаватель: Окс Ефим Михайлович\n4. Ауд
@@ -2364,7 +2364,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физика
 DTSTART;TZID=Asia/Tomsk:20261028T085000
 DTEND;TZID=Asia/Tomsk:20261028T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670417-20261028@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Практика\n3
  . Преподаватель: Казаков Андрей Викторо
@@ -2376,7 +2376,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инж. графика
 DTSTART;TZID=Asia/Tomsk:20261028T104000
 DTEND;TZID=Asia/Tomsk:20261028T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670403-20261028@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Инженерная графика\n2. Ви
  д: Лекция\n3. Преподаватель: Гришаева Нат
@@ -2389,7 +2389,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ПИТР
 DTSTART;TZID=Asia/Tomsk:20261028T131500
 DTEND;TZID=Asia/Tomsk:20261028T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-674278-20261028@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Проектирование индивид
  уальной траектории развития\n2. Вид: Прак
@@ -2403,7 +2403,7 @@ BEGIN:VEVENT
 SUMMARY:[⚪ СР] Физика
 DTSTART;TZID=Asia/Tomsk:20261028T150000
 DTEND;TZID=Asia/Tomsk:20261028T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672089-20261028@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физика\n2. Вид: Самостоят
  ельная работа\n3. Преподаватель: Казаков 
@@ -2416,7 +2416,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] ОРГ
 DTSTART;TZID=Asia/Tomsk:20261029T085000
 DTEND;TZID=Asia/Tomsk:20261029T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-672728-20261029@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Основы российской госуд
  арственности\n2. Вид: Практика\n3. Препода
@@ -2429,7 +2429,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Инф. технологии
 DTSTART;TZID=Asia/Tomsk:20261029T104000
 DTEND;TZID=Asia/Tomsk:20261029T121500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670496-20261029@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Информационные техноло
  гии\n2. Вид: Лекция\n3. Преподаватель: Нозд
@@ -2442,7 +2442,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Английский
 DTSTART;TZID=Asia/Tomsk:20261029T131500
 DTEND;TZID=Asia/Tomsk:20261029T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-670524-20261029@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Иностранный язык\n2. Вид: 
  Практика\n3. Преподаватель: Нижевич Евге
@@ -2455,7 +2455,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Физ-ра
 DTSTART;TZID=Asia/Tomsk:20261029T150000
 DTEND;TZID=Asia/Tomsk:20261029T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669692-20261029@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Физическая культура и с
  порт\n2. Вид: Практика\n3. Преподаватель: Т
@@ -2469,7 +2469,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Математика
 DTSTART;TZID=Asia/Tomsk:20261030T131500
 DTEND;TZID=Asia/Tomsk:20261030T145000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669829-20261030@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Лекци
  я\n3. Преподаватель: Ермаченков Павел Анд
@@ -2483,7 +2483,7 @@ BEGIN:VEVENT
 SUMMARY:[🔵 П] Математика
 DTSTART;TZID=Asia/Tomsk:20261030T150000
 DTEND;TZID=Asia/Tomsk:20261030T163500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669830-20261030@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Математика\n2. Вид: Практ
  ика\n3. Преподаватель: Ермаченков Павел А
@@ -2497,7 +2497,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261030T164500
 DTEND;TZID=Asia/Tomsk:20261030T182000
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669814-20261030@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Ноздреватых Бо
@@ -2510,7 +2510,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Тренды инженерии
 DTSTART;TZID=Asia/Tomsk:20261030T183000
 DTEND;TZID=Asia/Tomsk:20261030T200500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669815-20261030@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Тренды инженерии\n2. Вид: 
  Лекция\n3. Преподаватель: Ноздреватых Бо
@@ -2523,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:[🟢 Л] Деловые коммуникации
 DTSTART;TZID=Asia/Tomsk:20261031T085000
 DTEND;TZID=Asia/Tomsk:20261031T102500
-DTSTAMP:20261018T093614Z
+DTSTAMP:20261018T174415Z
 UID:tusur-669836-20261031@timetable.tusur.ru
 DESCRIPTION:1. Предмет: Деловые коммуникации\n2. 
  Вид: Лекция\n3. Преподаватель: Крыгина Ма
