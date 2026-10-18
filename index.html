@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Расписание ТУСУР 126-2 | iCalendar (.ics)</title>
+  <meta name="description" content="Автоматически обновляемый iCalendar (.ics) расписания группы 126-2 ИРЭТ ТУСУР для Apple Calendar, Google Calendar, Outlook и Яндекс.Календаря.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0b0f17;
+      --card-bg: rgba(18, 24, 38, 0.85);
+      --card-inner: rgba(26, 34, 52, 0.7);
+      --border: rgba(56, 68, 97, 0.6);
+      --border-light: rgba(88, 166, 255, 0.25);
+      --text: #f0f6fc;
+      --text-muted: #8b9bb4;
+      --accent: #58a6ff;
+      --accent-hover: #79c0ff;
+      --success: #3fb950;
+      --card-radius: 18px;
+      --font: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(88, 166, 255, 0.15), transparent 45%),
+        radial-gradient(circle at 90% 80%, rgba(63, 185, 80, 0.12), transparent 45%),
+        radial-gradient(circle at 50% 50%, rgba(163, 113, 247, 0.08), transparent 60%);
+      color: var(--text);
+      font-family: var(--font);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 36px 16px;
+    }
+
+    .container {
+      max-width: 760px;
+      width: 100%;
+      background: var(--card-bg);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid var(--border);
+      border-radius: var(--card-radius);
+      padding: 36px 32px;
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.5);
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(88, 166, 255, 0.12);
+      border: 1px solid rgba(88, 166, 255, 0.25);
+      color: var(--accent);
+      padding: 6px 14px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .badge-live::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      background-color: var(--success);
+      border-radius: 50%;
+      box-shadow: 0 0 10px var(--success);
+      display: inline-block;
+    }
+
+    h1 {
+      font-size: 30px;
+      font-weight: 800;
+      line-height: 1.25;
+      margin-bottom: 10px;
+      background: linear-gradient(135deg, #ffffff 40%, #a5b4fc 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 26px;
+    }
+
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 26px;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 15px 22px;
+      border-radius: 14px;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      border: 1px solid transparent;
+      outline: none;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+    }
+
+    .btn-apple {
+      background: linear-gradient(135deg, #1f6feb 0%, #1158c7 100%);
+      color: #ffffff;
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .btn-apple:hover {
+      background: linear-gradient(135deg, #388bfd 0%, #1f6feb 100%);
+    }
+
+    .btn-google {
+      background: linear-gradient(135deg, #238636 0%, #196c2e 100%);
+      color: #ffffff;
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .btn-google:hover {
+      background: linear-gradient(135deg, #2ea043 0%, #238636 100%);
+    }
+
+    .btn-secondary {
+      background: var(--card-inner);
+      color: var(--text);
+      border-color: var(--border);
+    }
+
+    .btn-secondary:hover {
+      background: #252f48;
+      border-color: #6e84a3;
+    }
+
+    .url-box {
+      background: var(--card-inner);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+
+    .url-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .url-content {
+      overflow: hidden;
+    }
+
+    .url-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 13px;
+      color: var(--accent);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      user-select: all;
+      display: block;
+    }
+
+    .copy-btn {
+      background: #232d42;
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 10px;
+      padding: 8px 16px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      flex-shrink: 0;
+    }
+
+    .copy-btn:hover {
+      background: #313d5a;
+      border-color: var(--accent);
+    }
+
+    .copy-btn.copied {
+      background: rgba(63, 185, 80, 0.2);
+      border-color: var(--success);
+      color: var(--success);
+    }
+
+    .info-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 14px;
+      margin-bottom: 28px;
+    }
+
+    .info-card {
+      background: var(--card-inner);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+    }
+
+    .info-card .label {
+      font-size: 11px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .info-card .value {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .instructions {
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+      margin-bottom: 28px;
+    }
+
+    .instructions h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 14px;
+      color: #ffffff;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    .tab-btn {
+      background: var(--card-inner);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 8px 16px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .tab-btn:hover {
+      color: var(--text);
+      border-color: #6e84a3;
+    }
+
+    .tab-btn.active {
+      background: rgba(88, 166, 255, 0.15);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .tab-content {
+      display: none;
+      background: var(--card-inner);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px 20px;
+      color: var(--text-muted);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .tab-content.active {
+      display: block;
+    }
+
+    .tab-content ol {
+      padding-left: 20px;
+    }
+
+    .tab-content li {
+      margin-bottom: 8px;
+    }
+
+    .tab-content li:last-child {
+      margin-bottom: 0;
+    }
+
+    .tab-content strong {
+      color: var(--text);
+    }
+
+    /* Live Preview Section */
+    .preview-section {
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+    }
+
+    .preview-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+
+    .preview-header h2 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    .events-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      max-height: 480px;
+      overflow-y: auto;
+      padding-right: 4px;
+    }
+
+    .event-card {
+      background: var(--card-inner);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: all 0.2s ease;
+    }
+
+    .event-card:hover {
+      border-color: var(--accent);
+      transform: translateX(4px);
+    }
+
+    .event-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 15px;
+    }
+
+    .event-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .event-loc {
+      background: rgba(88, 166, 255, 0.15);
+      color: var(--accent);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .event-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .event-meta span {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    footer {
+      margin-top: 32px;
+      text-align: center;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 580px) {
+      .container {
+        padding: 24px 18px;
+      }
+      h1 {
+        font-size: 24px;
+      }
+      .info-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="badges">
+      <span class="badge badge-live">Автообновление ТУСУР</span>
+      <span class="badge">ИРЭТ</span>
+      <span class="badge">Группа 126-2</span>
+    </div>
+
+    <h1>Расписание группы 126-2</h1>
+    <p class="subtitle">
+      Институт радиоэлектроники и информационных технологий (ИРЭТ) ТУСУР.<br>
+      Автоматическая синхронизация через iCalendar (.ics) для Apple Calendar, Google Календаря и Яндекс.Календаря.
+    </p>
+
+    <div class="actions">
+      <a id="btn-apple" href="schedule.ics" class="btn btn-apple">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M15.97 6.4c.59-.72 1-1.72.89-2.72-.88.04-1.95.59-2.58 1.32-.55.63-1.03 1.65-.9 2.63.98.08 1.99-.51 2.59-1.23z"/>
+        </svg>
+        Подписаться в Apple Calendar / iOS
+      </a>
+
+      <a id="btn-google" href="#" target="_blank" rel="noopener" class="btn btn-google">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20a2 2 0 0 0 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5v-5z"/>
+        </svg>
+        Добавить в Google Календарь
+      </a>
+
+      <a id="btn-download" href="schedule.ics" download="schedule.ics" class="btn btn-secondary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="7 10 12 15 17 10"></polyline>
+          <line x1="12" y1="15" x2="12" y2="3"></line>
+        </svg>
+        Скачать файл schedule.ics (для разового импорта)
+      </a>
+    </div>
+
+    <div class="url-box">
+      <div class="url-content">
+        <div class="url-label">Ссылка для подписки по URL (.ics)</div>
+        <span class="url-text" id="ics-url">Загрузка ссылки...</span>
+      </div>
+      <button class="copy-btn" id="copy-btn" onclick="copyIcsUrl()">Копировать</button>
+    </div>
+
+    <div class="info-grid">
+      <div class="info-card">
+        <div class="label">Часовой пояс</div>
+        <div class="value">Asia/Tomsk (+7)</div>
+      </div>
+      <div class="info-card">
+        <div class="label">Обновление</div>
+        <div class="value">Ежедневно 22:00</div>
+      </div>
+      <div class="info-card">
+        <div class="label">Группа</div>
+        <div class="value">126-2 (ИРЭТ)</div>
+      </div>
+      <div class="info-card">
+        <div class="label">Источник</div>
+        <div class="value"><a href="https://timetable.tusur.ru/faculties/iret/groups/126-2" target="_blank" rel="noopener" style="color: var(--accent); text-decoration: none;">timetable.tusur.ru</a></div>
+      </div>
+    </div>
+
+    <div class="instructions">
+      <h2>Инструкция по подключению</h2>
+      <div class="tabs">
+        <button class="tab-btn active" onclick="switchTab('apple')">Apple Calendar (iOS / Mac)</button>
+        <button class="tab-btn" onclick="switchTab('google')">Google Календарь</button>
+        <button class="tab-btn" onclick="switchTab('yandex')">Яндекс.Календарь</button>
+      </div>
+
+      <div id="tab-apple" class="tab-content active">
+        <ol>
+          <li><strong>На iPhone / iPad:</strong> Нажмите верхнюю кнопку «Подписаться в Apple Calendar / iOS». Откроется системное окно «Добавить подписной календарь» → нажмите <strong>«Подписаться»</strong>.</li>
+          <li><strong>На Mac:</strong> В приложении «Календарь» нажмите <em>Файл → Новая подписка на календарь</em>, вставьте скопированную ссылку выше и нажмите «Подписаться».</li>
+          <li>Календарь будет автоматически обновляться в фоне при изменениях в расписании на сайте ТУСУР.</li>
+        </ol>
+      </div>
+
+      <div id="tab-google" class="tab-content">
+        <ol>
+          <li><strong>С компьютера:</strong> Нажмите зеленую кнопку «Добавить в Google Календарь» или перейдите на <a href="https://calendar.google.com" target="_blank" style="color: var(--accent);">calendar.google.com</a> → в левой панели возле «Другие календари» нажмите значок <strong>«+»</strong> → выберите <strong>«Добавить по URL»</strong> → вставьте ссылку на .ics → нажмите «Добавить календарь».</li>
+          <li><strong>С телефона:</strong> В браузере (Safari / Chrome) включите режим <em>«Версия для ПК» («Запрос настольного веб-сайта»)</em> и нажмите кнопку «Добавить в Google Календарь». Живой календарь появится в аккаунте и синхронизируется с мобильным приложением Google Календарь.</li>
+        </ol>
+      </div>
+
+      <div id="tab-yandex" class="tab-content">
+        <ol>
+          <li>Откройте <a href="https://calendar.yandex.ru" target="_blank" style="color: var(--accent);">Яндекс.Календарь</a> на компьютере.</li>
+          <li>В левой колонке нажмите значок шестеренки (настройки) или «+» рядом с «Календари».</li>
+          <li>Выберите <strong>«Подписаться на календарь»</strong>, вставьте скопированную ссылку выше и сохраните.</li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="preview-section">
+      <div class="preview-header">
+        <h2>Предпросмотр занятий (ближайшие пары)</h2>
+        <span style="font-size: 13px; color: var(--text-muted);" id="preview-count">Загрузка...</span>
+      </div>
+      <div class="events-list" id="events-list">
+        <div style="text-align: center; color: var(--text-muted); padding: 20px;">Загрузка расписания...</div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Расписание группы 126-2 ИРЭТ ТУСУР • Генерация по данным timetable.tusur.ru</p>
+  </footer>
+
+  <script>
+    // Build absolute URL for schedule.ics
+    const currentIcsUrl = new URL('schedule.ics', window.location.href).href;
+    const urlText = document.getElementById('ics-url');
+    if (urlText) urlText.textContent = currentIcsUrl;
+
+    // Apple Calendar webcal:// URL
+    const webcalUrl = currentIcsUrl.replace(/^https?:\/\//i, 'webcal://');
+    const btnApple = document.getElementById('btn-apple');
+    if (btnApple) btnApple.href = webcalUrl;
+
+    // Google Calendar render URL
+    const btnGoogle = document.getElementById('btn-google');
+    if (btnGoogle) {
+      btnGoogle.href = 'https://calendar.google.com/calendar/render?cid=' + encodeURIComponent(webcalUrl);
+    }
+
+    function copyIcsUrl() {
+      navigator.clipboard.writeText(currentIcsUrl).then(() => {
+        const btn = document.getElementById('copy-btn');
+        btn.textContent = 'Скопировано!';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = 'Копировать';
+          btn.classList.remove('copied');
+        }, 2000);
+      });
+    }
+
+    function switchTab(tabName) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+
+      const btn = event.target;
+      const content = document.getElementById('tab-' + tabName);
+      if (btn) btn.classList.add('active');
+      if (content) content.classList.add('active');
+    }
+
+    // Load schedule preview from schedule.json
+    fetch('schedule.json')
+      .then(res => res.json())
+      .then(data => {
+        const list = document.getElementById('events-list');
+        const count = document.getElementById('preview-count');
+        if (!list || !Array.isArray(data) || data.length === 0) return;
+
+        count.textContent = `Всего: ${data.length} занятий`;
+        list.innerHTML = '';
+
+        // Display up to 25 upcoming events
+        data.slice(0, 25).forEach(ev => {
+          const card = document.createElement('div');
+          card.className = 'event-card';
+
+          const [y, m, d] = ev.date ? ev.date.split('-') : ['', '', ''];
+          const dateStr = d ? `${d}.${m}.${y}` : '';
+
+          card.innerHTML = `
+            <div class="event-top">
+              <span class="event-title">${escapeHtml(ev.summary)}</span>
+              ${ev.location ? `<span class="event-loc">📍 ${escapeHtml(ev.location)}</span>` : ''}
+            </div>
+            <div class="event-meta">
+              <span>📅 ${dateStr}</span>
+              <span>⏰ ${escapeHtml(ev.time)}</span>
+            </div>
+          `;
+          list.appendChild(card);
+        });
+      })
+      .catch(err => {
+        console.warn('Could not load schedule.json preview:', err);
+        const list = document.getElementById('events-list');
+        if (list) {
+          list.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 20px;">Готово к подписке. Скачайте schedule.ics или подпишитесь по кнопкам выше.</div>';
+        }
+      });
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+  </script>
+</body>
+</html>
